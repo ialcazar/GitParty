@@ -1,4 +1,4 @@
 GitParty
 ========
 
-GitParty
+Modificado el README
